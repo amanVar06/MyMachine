@@ -18,14 +18,17 @@ Get all the algorithms you need and build the algorithms you can to help.
 ###  curated list of algos:
 | Algorithm    |    Python        | C++ |Javascript|
 | ------------- |:-------------:| -----:|------:|
-|  Linear Regression | ![alt text](/img/tick.png)         | 		|		|
+|  Linear Regression | ![alt text](/img/tick.png)         |![alt text](/img/tick.png)   		|		|
 |  Gradient Descent |               |	    |		|
 |  Naive Bayes  |               |	    |		|
 |  SVM  |				| 		|		|
 |  Random Forest Regression  |				| 		|		|
-|  Logistic Regression	|	![alt text](/img/tick.png)			| 		|		|
+|  Logistic Regression	|	![alt text](/img/tick.png)			|![alt text](/img/tick.png)   		|		|
 |  K Means	|	![alt text](/img/tick.png)			| 		|		|
 |  Perceptron Classifier	|	![alt text](/img/tick.png)			| 		|		|
+|  Apriori	|	![alt text](/img/tick.png)			| 		|		|
+|  Hierarchical clustering	|	![alt text](/img/tick.png)			| 		|		|
+|  Artificial neural network	|	![alt text](/img/tick.png)			| 		|		|
 
 
 
